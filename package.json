@@ -6,7 +6,7 @@
   ],
   "dependencies": {
     "@types/mdast": "^4.0.0",
-    "mdast-util-gfm": "^3.0.0",
+    "zhf.mdast-util-gfm": "^3.1.1",
     "micromark-extension-gfm": "^3.0.0",
     "remark-parse": "^11.0.0",
     "remark-stringify": "^11.0.0",
@@ -53,7 +53,7 @@
     "unified"
   ],
   "license": "MIT",
-  "name": "remark-gfm",
+  "name": "zhf.remark-gfm",
   "prettier": {
     "bracketSpacing": false,
     "singleQuote": true,
@@ -82,7 +82,7 @@
     "strict": true
   },
   "type": "module",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "xo": {
     "overrides": [
       {
