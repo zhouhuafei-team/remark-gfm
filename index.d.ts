@@ -1,5 +1,5 @@
 import type {Options as MicromarkOptions} from 'micromark-extension-gfm'
-import type {Options as MdastOptions} from 'mdast-util-gfm'
+import type {Options as MdastOptions} from 'zhf.mdast-util-gfm'
 
 export {default} from './lib/index.js'
 

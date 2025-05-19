@@ -6,7 +6,7 @@
   ],
   "dependencies": {
     "@types/mdast": "^4.0.0",
-    "zhf.mdast-util-gfm": "^3.1.1",
+    "zhf.mdast-util-gfm": "^3.1.2",
     "micromark-extension-gfm": "^3.0.0",
     "remark-parse": "^11.0.0",
     "remark-stringify": "^11.0.0",
@@ -82,7 +82,7 @@
     "strict": true
   },
   "type": "module",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "xo": {
     "overrides": [
       {
